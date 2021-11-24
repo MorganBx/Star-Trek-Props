@@ -1,7 +1,7 @@
 field,display_name
 title,Title
-series,Series
+series,Series,true
 episode,Episode
-culture,Culture
+culture,Culture,true
 description,Description
-subject,Subjects
+subject,Subjects,true
