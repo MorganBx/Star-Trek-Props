@@ -1,5 +1,7 @@
 field,display_name
 title,Title
-date,Date
+series,Series
+episode,Episode
+culture,Culture
 description,Description
 subject,Subjects
