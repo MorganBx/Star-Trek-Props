@@ -24,6 +24,7 @@
 {%- assign captions = include.caption | split: ";" %}
 {%- assign alts = include.alt | split: ";" -%}
 {%- assign links = include.link | split: ";" -%}
+{%- assign description = include.description | split: ";" -%}
 <div class="row">
     {% for i in figures %}
     {% if i contains "/" %}
