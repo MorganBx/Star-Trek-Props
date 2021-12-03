@@ -17,7 +17,7 @@ objectid,title,Series,Episode,filename,Culture,format,description,subject
 16,NX-01 Intercom,Enterprise,Enterprise s2e6 Mauraders,enterpriseintercom.jpg,Starfleet,image/jpeg,"Intercom used to communicate throughout the original NX-01 Enterprise. Can be seen in multiple episodes, including Enterprise s2e6 Mauraders.",Starfleet; tool
 17,Andorian Ale bottle,Enterprise,Enterprise s4e12 Babel One,andorianale.jpg; andorianalebabelone.jpg,Andorian,image/jpeg,"Bottle used to hold Andorian Ale, a powerful alcoholic beverage considered a luxury among Andorians, as seen in Enterprise s4e12 Babel One.",Andorian
 18,TOPO plaque,Enterprise,Enterprise s2e24 First Flight,topo.jpg,Starfleet,image/jpeg,"Signage labeling the Trajectory Operations Officer station, as seen in Enterprise s2e24 First Flight.",Stafleet
-19,Cargo container miniature models,The Next Generation,The Next Generation s5e5 Disaster,cargominis.jpg,Starfleet,image/jpeg,,Starfleet; miniature prop
-20,Old Bandi City miniature model,The Next Generation,The Next Generation s1e1 Encounter at Farpoint,bandicitymini.jpg,Bandi,image/jpeg,,Bandi; miniature prop
+19,Cargo container miniature models,The Next Generation,The Next Generation s5e5 Disaster,cargominis.jpg,Starfleet,image/jpeg,Starfleet; miniature prop
+20,Old Bandi City miniature model,The Next Generation,The Next Generation s1e1 Encounter at Farpoint,bandicitymini.jpg,Bandi,image/jpeg,Bandi; miniature prop
 21,Medical PADD,Voyager,Voyager s7e8 Flesh and Blood Part 1,medicalpadd.jpg,Starfleet,image/jpeg,Starfleet; tool; tricorder
-22,Delta Flyer aft console,Voyager,Voyager s5e3 Extreme Risk,deltaflyerconsole.jpg,Starfleet,image/jpeg,,Starfleet
+22,Delta Flyer aft console,Voyager,Voyager s5e3 Extreme Risk,deltaflyerconsole.jpg,Starfleet,image/jpeg,Starfleet
