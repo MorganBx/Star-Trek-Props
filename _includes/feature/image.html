@@ -49,10 +49,7 @@
             {% unless include.caption == false %}<figcaption class="figure-caption">{% if i contains "/" %}{{ image_caption }}{% else %}<a href="{{ image_link }}">{{ image_caption }}</a>{% endif %}</figcaption>{% endunless %}
  
         </figure>
-        
-        <figure class="figure">
-  <figcaption class="figure-caption">A caption for the above image.</figcaption>
-</figure>
+       
         
     </div>{% endfor %}
 </div>
