@@ -19,5 +19,5 @@ objectid,title,Series,Episode,filename,Culture,format,description,subject
 18,TOPO plaque,Enterprise,Enterprise s2e24 First Flight,topo.jpg,Starfleet,image/jpeg,"Signage labeling the Trajectory Operations Officer station, as seen in Enterprise s2e24 First Flight.",Stafleet
 19,Cargo container miniature models,The Next Generation,The Next Generation s5e5 Disaster,cargominis.jpg,Starfleet,image/jpeg,,Starfleet; miniature prop
 20,Old Bandi City miniature model,The Next Generation,The Next Generation s1e1 Encounter at Farpoint,bandicitymini.jpg,Bandi,image/jpeg,,Bandi; miniature prop
-21,Medical PADD,Voyager,Voyager s7e8 Flesh and Blood Part 1,medicalpadd.jpg,Starfleet,image/jpeg,,Starfleet; tool; tricorder
+21,Medical PADD,Voyager,Voyager s7e8 Flesh and Blood Part 1,medicalpadd.jpg,Starfleet,image/jpeg,Starfleet; tool; tricorder
 22,Delta Flyer aft console,Voyager,Voyager s5e3 Extreme Risk,deltaflyerconsole.jpg,Starfleet,image/jpeg,,Starfleet
