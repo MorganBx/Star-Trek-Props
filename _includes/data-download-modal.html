@@ -50,13 +50,13 @@
                     </div>
                 </div>
                 {% endif %}
-                {% if stubs contains "location" %}
+                {% if stubs contains "series" %}
                 <div class="card my-3">
                     <div class="card-body">
-                        <h5 class="card-title">Locations</h5>
+                        <h5 class="card-title">Series</h5>
                         <p class="card-text">Unique values and counts of location metadata, useful for further visualization and analysis of this collection's place names.</p>
-                        <a href="{{ '/assets/data/locations.csv' | relative_url }}" class="btn btn-outline-dark" target="_blank">Locations CSV</a>
-                        <a href="{{ '/assets/data/locations.json' | relative_url }}" class="btn btn-outline-dark" target="_blank">Locations JSON</a>
+                        <a href="{{ '/assets/data/series.csv' | relative_url }}" class="btn btn-outline-dark" target="_blank">Series CSV</a>
+                        <a href="{{ '/assets/data/series.json' | relative_url }}" class="btn btn-outline-dark" target="_blank">Series JSON</a>
                     </div>
                 </div>
                 {%- endif -%}
