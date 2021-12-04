@@ -46,7 +46,7 @@ culture-stopwords: # set of subjects separated by ; that will be removed from di
 #
 # add metadata fields for export in data downloads (tip: paste in first row of csv)
 # comma delimited list, reference url is automatic
-metadata-export-fields: "title,series,episode,culture,description,subject"
+metadata-export-fields: "title,series,episode,culture,format,description,subject,filename"
 # generate a facets list for given fields, comma delimited
 metadata-facets-fields: "subject,creator,format"
 
