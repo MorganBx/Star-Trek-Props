@@ -1,0 +1,7 @@
+field,display_name,browse_link,external_link
+title,Title,
+series,Series,true
+episode,Episode,
+culture,Culture,true
+description,Description,
+subject,Subjects,true
