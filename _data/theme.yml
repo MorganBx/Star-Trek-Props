@@ -30,14 +30,14 @@ subjects-stopwords: # boxers;boxing;boxer # set of subjects separated by ;, e.g.
 ##########
 # SERIES PAGE
 #
-series-fields: culture set the field to be featured in the cloud
+series-fields: series # set the field to be featured in the cloud
 series-min: 1 # min size for subject cloud, too many terms = slow load time!
 series-stopwords: # set of subjects separated by ; that will be removed from display, e.g. boxers;boxing
 
 ##########
 # CULTURE PAGE
 #
-culture-fields: culture set the field to be featured in the cloud
+culture-fields: culture # set the field to be featured in the cloud
 culture-min: 1 # min size for subject cloud, too many terms = slow load time!
 culture-stopwords: # set of subjects separated by ; that will be removed from display, e.g. boxers;boxing
 
