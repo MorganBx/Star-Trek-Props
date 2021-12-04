@@ -10,5 +10,5 @@ cloud-fields: site.data.theme.series-fields
 
 ## Browse Series
 
-Use this word cloud visualization to browse series.
+Use this word cloud visualization to browse the items by the Star Trek series in which it appears.
 Word size is determined by frequency and all words link to a corresponding collection search.
