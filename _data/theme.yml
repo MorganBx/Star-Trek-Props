@@ -28,11 +28,18 @@ subjects-min: 1 # min size for subject cloud, too many terms = slow load time!
 subjects-stopwords: # boxers;boxing;boxer # set of subjects separated by ;, e.g. boxers;boxing
 
 ##########
+# SERIES PAGE
+#
+series-fields: culture set the field to be featured in the cloud
+series-min: 1 # min size for subject cloud, too many terms = slow load time!
+series-stopwords: # set of subjects separated by ; that will be removed from display, e.g. boxers;boxing
+
+##########
 # CULTURE PAGE
 #
-locations-fields: culture set the field to be featured in the cloud
-locations-min: 1 # min size for subject cloud, too many terms = slow load time!
-locations-stopwords: # set of subjects separated by ; that will be removed from display, e.g. boxers;boxing
+culture-fields: culture set the field to be featured in the cloud
+culture-min: 1 # min size for subject cloud, too many terms = slow load time!
+culture-stopwords: # set of subjects separated by ; that will be removed from display, e.g. boxers;boxing
 
 ##########
 # DATA 
