@@ -10,5 +10,5 @@ cloud-fields: site.data.theme.culture-fields
 
 ## Browse Cultures
 
-Use this word cloud visualization to browse cultures.
+Use this word cloud visualization to browse by the culture that created the item.
 Word size is determined by frequency and all words link to a corresponding collection search.
