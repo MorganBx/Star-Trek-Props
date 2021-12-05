@@ -71,18 +71,18 @@
             "format":"json",
             "profile": "data-resource"
         },{% endif %}
-        {% if stubs contains "location" %}
+        {% if stubs contains "series" %}
         {
-            "name": "locations-csv",
+            "name": "series-csv",
             "path": "subjects.csv",
-            "title": "{{ site.title | escape }} metadata location counts in csv",
-            "description": "Unique values and counts of metadata location fields.",
+            "title": "{{ site.title | escape }} metadata series counts in csv",
+            "description": "Unique values and counts of metadata series fields.",
             "format":"csv",
             "profile":"tabular-data-resource",
             "schema": {
                 "fields": [
                     {
-                        "name": "location",
+                        "name": "series",
                         "type": "string",
                         "format": "default"
                     },
@@ -100,10 +100,10 @@
             }
         },
         {
-            "name": "locations-json",
-            "path": "locations.json",
-            "title": "{{ site.title | escape }} metadata location counts in json",
-            "description":"Unique values and counts of metadata location fields.",
+            "name": "series-json",
+            "path": "series.json",
+            "title": "{{ site.title | escape }} metadata series counts in json",
+            "description":"Unique values and counts of metadata series fields.",
             "format":"json",
             "profile": "data-resource"
         },{% endif %}
