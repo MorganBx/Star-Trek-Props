@@ -1,7 +1,7 @@
 ---
-# find all unique locations used in the metadata
+# find all unique culture used in the metadata
 ---
-{%- if site.data.theme.locations-fields -%}
+{%- if site.data.theme.culture-fields -%}
 {%- assign cloud-fields = site.data.theme.subjects-fields | split: ";" -%}
 {% comment %} Capture all cloud terms {% endcomment %} 
 {%- assign raw-terms = "" -%}
@@ -14,7 +14,7 @@
 {%- capture terms -%}{%- for t in raw-terms -%}{%- if t != "" and t != " " -%}{{ t | strip }};{%- endif -%}{%- endfor -%}{%- endcapture -%}
 {%- assign terms = terms | split: ";" | sort -%}
 {%- assign uniqueTerms = terms | uniq | sort -%}
-location,count,link
+culture,count,link
 {% for u in uniqueTerms %}{%- assign count = terms | where_exp: 'item', 'item == u' | size -%}
 "{{ u }}",{{ count }},"{{ u | uri_escape | prepend: "/browse.html#" | absolute_url }}"
 {% endfor %}{% endif %}
